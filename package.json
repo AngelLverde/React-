@@ -5,6 +5,7 @@
     "@mui/icons-material": "^5.10.3",
     "@mui/material": "^5.10.4",
     "install": "^0.13.0",
-    "npm": "^8.19.1"
+    "npm": "^8.19.1",
+    "react-router-dom": "^6.4.0"
   }
 }
